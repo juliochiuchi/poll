@@ -1,0 +1,4 @@
+Items utilizados no Storage:
+  1. storageListPeoples - [lista de pessoas cadastradas]
+  2. storageIDKeyListPeoples - [último id utilizado no cadastro de pessoas]
+  3. 
